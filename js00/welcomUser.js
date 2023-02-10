@@ -1,5 +1,3 @@
-console.log("welcom");
-
 const userName = "john" ;
 
-console.log ("welcom"+ userName);
+console.log ("welcom", userName);
