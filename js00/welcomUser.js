@@ -1,3 +1,3 @@
-const userName = "john" ;
+Var userName = "John" ;
 
-console.log ("welcom", userName);
+console.log ("Welcom", userName);
